@@ -1,0 +1,49 @@
+html {
+    background: #fff;
+}
+
+body {
+    margin: auto;
+    width: 100%;
+}
+
+.i
+{
+font-style:italic;
+}
+
+.b
+{
+font-weight:bold;
+font-style:normal;
+}
+
+.cards img
+{
+margin-left:22px;
+margin-right:37px;
+}
+.cards
+{
+margin:50px 35%;
+width:350px;
+-webkit-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
+    border: 0.6px solid #e3e3e3;
+}
+ul
+{
+margin-left:-40px;
+list-style:none;
+}
+ h3
+{
+margin: 20px;
+}
+.box
+{
+border:1px solid #d1d1d1;
+padding:5px;
+margin:20px;
+}
